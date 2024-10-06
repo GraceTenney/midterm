@@ -9,9 +9,6 @@ public class Main {
         //int option = JOptionPane.showConfirmDialog(null, "Do the thing");
         int option = (int) (Math.random() * 3);
         System.out.println(option + " " + checkThing(option));
-        //hello world
-        //hello world again
-        //hsjkehfjhsdf
         // -1 = exit
         // 0 = yes
         // 1 = no
