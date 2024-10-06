@@ -11,6 +11,7 @@ public class Main {
         System.out.println(option + " " + checkThing(option));
         //hello world
         //hello world again
+        //hsjkehfjhsdf
         // -1 = exit
         // 0 = yes
         // 1 = no
