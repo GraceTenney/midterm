@@ -10,6 +10,7 @@ public class Main {
         int option = (int) (Math.random() * 3);
         System.out.println(option + " " + checkThing(option));
         //hello world
+        //hello world again
         // -1 = exit
         // 0 = yes
         // 1 = no
